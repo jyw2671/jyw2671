@@ -1,11 +1,12 @@
-### Hi there 👋
+### Hi there I'm YoungWoong Jung👋
+
+---
 
 [![yjung's 42 stats](https://badge42.herokuapp.com/api/stats/yjung)](https://github.com/JaeSeoKim/badge42)
 
-<!--
-**jyw2671/jyw2671** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+```c
 
 void	yjung(t_study *study_list)
 {
@@ -20,6 +21,14 @@ void	yjung(t_study *study_list)
             add_study_list(study_list, new_something);
     }
 }
+
+```
+
+
+<!--
+**jyw2671/jyw2671** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
