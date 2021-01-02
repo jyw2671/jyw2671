@@ -1,10 +1,14 @@
-### Hi there I'm YoungWoong Jung👋
-
+### Hi there, I'm YoungWoong Jung!👋
 ---
+
+🌱 I am a student developer studying in 42Seoul.
+
 
 [![yjung's 42 stats](https://badge42.herokuapp.com/api/stats/yjung)](https://github.com/JaeSeoKim/badge42)
 
 ---
+
+**Working in Progress**
 
 ```c
 
