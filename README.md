@@ -1,5 +1,7 @@
 ### Hi there, I'm YoungWoong Jung!👋
 ---
+[![yjung's github stats](https://github-readme-stats.vercel.app/api?username=jyw2671)](https://github.com/anuraghazra/github-readme-stats)
+---
 
 🌱 I am a student developer studying in 42Seoul.
 
