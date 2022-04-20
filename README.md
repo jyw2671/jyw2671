@@ -7,8 +7,7 @@
 
 🌱 I am a student developer studying in 42Seoul.
 
-
-[![yjung's 42 stats](https://badge42.herokuapp.com/api/stats/yjung)](https://github.com/JaeSeoKim/badge42)
+[![yjung's 42 stats](https://badge42.vercel.app/api/v2/cl2735s2i001109ju48d1w39n/stats?cursusId=21&coalitionId=88)](https://github.com/JaeSeoKim/badge42)
 
 ---
 
